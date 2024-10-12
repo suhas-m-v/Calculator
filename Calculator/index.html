@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="calculator">
+        <input id="display"  readonly>
+        <div id="keys">
+            <button id="+" onclick="todis('+')" class="opr">+</button>
+            <button id="1" onclick="todis('1')">1</button>
+            <button id="2" onclick="todis('2')">2</button>
+            <button id="3" onclick="todis('3')">3</button>
+            <button id="-" onclick="todis('-')" class="opr">-</button>
+            <button id="4" onclick="todis('4')">4</button>
+            <button id="5" onclick="todis('5')">5</button>
+            <button id="6" onclick="todis('6')">6</button>
+            <button id="*" onclick="todis('*')" class="opr">*</button>
+            <button id="7" onclick="todis('7')">7</button>
+            <button id="8" onclick="todis('8')">8</button>
+            <button id="9" onclick="todis('9')">9</button>
+            <button id="/" onclick="todis('/')" class="opr">/</button>
+            <button id="0" onclick="todis('0')">0</button>
+            <button id="." onclick="todis('.')">.</button>
+            <button id="=" onclick="cal()" class="opr">=</button>
+            <button id="c" onclick="clr()" class="opr">c</button>   
+            <script src="cal.js"></script>   
+        </div>
+    </div>
+</body>
+</html>
