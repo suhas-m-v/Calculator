@@ -60,13 +60,9 @@ You can try the calculator by opening the `index.html` file in your browser.
 - **clr()**: Clears the display.
 - **cal()**: Evaluates the expression and updates the display with the result, or shows an error for invalid expressions.
 
-## Screenshots
-
-![Calculator Screenshot](https://your-image-url.com)  
-
-
+## Screenshot
+![Calculator Screenshot](https://github.com/suhas-m-v/Calculator/blob/6bc9e9f8c7d74e5e7f5113435d4b99812c8b7ba0/Screenshot%202024-10-12%20114417.png)
 ## Improvements
-
 Future enhancements could include:
 - Adding support for more advanced mathematical operations like square root, exponentiation, etc.
 - Improving accessibility for keyboard input.
