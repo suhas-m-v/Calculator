@@ -31,7 +31,7 @@ You can try the calculator by opening the `index.html` file in your browser.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/suhas-m-v/calculator.git
+    git clone https://github.com/suhas-m-v/Calculator.git
     ```
 
 2. **Open the project folder**:
